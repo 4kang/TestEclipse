@@ -12,7 +12,7 @@ public class Test2 {
 		//string型の変数
 		String name;
 		name = "こうのまゆ";
-		System.out.println(name);
+		System.out.println("私の名前は" + name + "です。");
 	}
 
 }
