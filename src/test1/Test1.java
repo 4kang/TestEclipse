@@ -6,6 +6,10 @@ public class Test1 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello World");
 		System.out.println("ありがとう");
+		System.out.println(3 + 5);
+		System.out.println(8 % 5);
+		
+		
 	}
 
 }
